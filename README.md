@@ -1,7 +1,7 @@
 # Hi! Iam Vaishnavi Narayandas,
 🟠Learning, Building, and Growing | Tech Explorer | AI & ML Enthusiast
 
-a third-year Computer Science student  pursuing a B.Tech in Computer Science at Avanthi Institute of Engineering and Technology (Graduating in 2026). I'm passionate about full-stack development, AI/ML, and building projects that solve real-world problems. I enjoy learning new technologies, and staying curious about the evolving tech world. I'm currently focused on strengthening my skills in DevOps, machine learning, and cloud technologies to become a well-rounded developer.<br>
+A third-year Computer Science student  pursuing a B.Tech in Computer Science at Avanthi Institute of Engineering and Technology (Graduating in 2026). I'm passionate about full-stack development, AI/ML, and building projects that solve real-world problems. I enjoy learning new technologies, and staying curious about the evolving tech world. I'm currently focused on strengthening my skills in DevOps, machine learning, and cloud technologies to become a well-rounded developer.<br>
 
 
 # Tech Stack:
